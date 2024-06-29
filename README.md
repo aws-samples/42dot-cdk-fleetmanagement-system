@@ -52,8 +52,8 @@ In this article, we will implement how to create a certificate and register it w
 Use th e code below to install the CDK and create a CDK project.
 
 ```
-git clone #######
-cd ########
+git clone https://github.com/aws-samples/42dot-cdk-fleetmanagement-system
+cd 42dot-cdk-fleetmanagement-system
 npm install
 cdk --version
 chmod +x start.sh
